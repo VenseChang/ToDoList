@@ -3,7 +3,7 @@ import { faAngleRight } from "@fortawesome/free-solid-svg-icons";
 
 export default function Home() {
   return (
-    <div className='w-full h-screen bg-pink-100 flex flex-col justify-start items-center'>
+    <div className='w-full h-full flex flex-col justify-start items-center mb-20'>
       <h1 className="text-6xl my-12">
         分身懶人包
       </h1>
